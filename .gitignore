@@ -1,0 +1,6 @@
+board/nano130/project/Listings
+board/nano130/project/nanp130tinyOS.uvgui.*
+board/nano130/project/Objects
+board/nano130/project/EventRecorderStub.scvd
+board/nano130/project/Nu_Link_Driver.ini
+*.o
